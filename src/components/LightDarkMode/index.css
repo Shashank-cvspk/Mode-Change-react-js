@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+  margin-top: 50%;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px;
+}
+.light-mode {
+  background-color: white;
+  color: black;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
